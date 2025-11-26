@@ -1,79 +1,103 @@
-👋 Hi, I'm Saad Hannout
+# 👋 Hi, I'm Saad Hannout
 
-🎓 Computer Engineering Graduate from Al-Azhar University, 2025
-📊 Data Analyst skilled in Excel • Power BI • SQL • Python
-🚀 Turning raw data into actionable insights
+🎓 Computer Engineering Graduate from Al-Azhar University, 2025  
+📊 Data Analyst skilled in Excel • Power BI • SQL • Python  
+🚀 Turning raw data into actionable insights  
 
-📌 About Me
+---
 
-Specialize in data cleaning, analysis, visualization, and reporting
+## 📌 About Me
 
-Build Power BI dashboards and Excel automations
+- Specialize in **data cleaning, analysis, visualization, and reporting**  
 
-Write optimized SQL queries for analytics
+- Build **Power BI dashboards** and Excel automations  
 
-Knowledge in Data Modeling & Data Warehousing concepts
+- Write optimized **SQL queries** for analytics  
 
-Working on real-world projects in business & product analytics
+- Knowledge in **Data Modeling & Data Warehousing concepts**  
 
-Always learning something new in data and tech
+- Working on **real-world projects** in business & product analytics  
 
-🎓 Education & Achievements
+- Always learning **new skills in data and tech**
 
-B.Sc. in Computer Engineering, Al-Azhar University, 2025
+---
 
-Graduated with Very Good with Honors
+## 🎓 Education & Achievements
 
-Graduation Project: FitMentor – awarded Excellent
+- B.Sc. in **Computer Engineering**, Al-Azhar University, 2025  
 
-🧰 Tech Toolbox
-Category	Tools
-Languages	Python, SQL, DAX
-Libraries	Pandas, NumPy, Matplotlib, Seaborn
-BI Tools	Power BI, Excel, Power Query
-Databases	SQL Server, MySQL
-Other	Git & GitHub, Jupyter Notebook
-📂 Featured Projects
-📊 E-Commerce Store Analytics
+- Graduated with **Very Good with Honors**  
 
-Interactive dashboard analyzing sales, customers, and product performance.
+- **Graduation Project:** FitMentor – awarded **Excellent**  
 
-Tools: Power Query, Power BI
+---
 
-🔗 Project: https://github.com/Saadhannout/E-Commerce-Store
+## 🧰 Tech Toolbox
 
-🚗 Used Car Price Prediction
+| Category      | Tools                           |
+|---------------|---------------------------------|
+| **Languages** | Python, SQL, DAX                |
+| **Libraries** | Pandas, NumPy, Matplotlib, Seaborn |
+| **BI Tools**  | Power BI, Excel, Power Query    |
+| **Databases** | SQL Server, MySQL               |
+| **Other**     | Git & GitHub, Jupyter Notebook  |
 
-ML model predicting used car prices using regression techniques.
+---
 
-Tools: Python, Pandas, Scikit-learn, Streamlit
+## 📂 Featured Projects
 
-🔗 Project: https://github.com/Saadhannout/Regression-of-Used-Car-Prices
+### 📊 E-Commerce Store Analytics  
 
-🏋️ FitMentor – Fitness Analytics Platform
+Interactive dashboard analyzing **sales, customers, and product performance**.  
 
-A Streamlit app for tracking workouts, meals, and recommending diets.
+**Tools:** Power Query, Power BI  
 
-Tools: Python, Pandas, Streamlit
+🔗 **Project:** https://github.com/Saadhannout/E-Commerce-Store  
 
-🔗 Project: https://github.com/Saadhannout/Diet_Recommendation
+---
 
-📚 Currently Learning
+### 🚗 Used Car Price Prediction  
 
-Advanced SQL
+ML model predicting **used car prices** using regression techniques.  
 
-A/B Testing
+**Tools:** Python, Pandas, Scikit-learn, Streamlit  
 
-Time Series
+🔗 **Project:** https://github.com/Saadhannout/Regression-of-Used-Car-Prices  
 
-Data Engineering Basics
+---
 
-📫 Contact
+### 🏋️ FitMentor – Fitness Analytics Platform  
 
-📍 Menoufia, Egypt
+Streamlit app for **tracking workouts, meals, and recommending diets**.  
 
-📧 saadhanout12345@gmail.com
+**Tools:** Python, Pandas, Streamlit  
 
-🔗 LinkedIn: https://www.linkedin.com/in/your-link
+🔗 **Project:** https://github.com/Saadhannout/Diet_Recommendation  
 
-📈 GitHub Stats
+---
+
+## 📚 Currently Learning
+
+- **Advanced SQL** – improving queries, joins, and analytics functions  
+
+- **A/B Testing & Experiment Design** – learning statistical testing for business decisions  
+
+- **Time Series Analysis** – forecasting trends, seasonality, and patterns  
+
+- **Data Engineering Basics** – ETL pipelines, data warehousing concepts  
+
+---
+
+## 📫 Contact
+
+📍 Menoufia, Egypt  
+
+📧 saadhanout12345@gmail.com  
+
+🔗 LinkedIn: https://www.linkedin.com/in/your-link  
+
+---
+
+## 📈 GitHub Stats
+
+![Saad's GitHub stats](https://github-readme-stats.vercel.app/api?username=Saadhannout&show_icons=true&theme=tokyonight)
