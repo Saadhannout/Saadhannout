@@ -70,4 +70,3 @@ Data Engineering Basics
 🔗 LinkedIn: https://www.linkedin.com/in/your-link
 
 📈 GitHub Stats
-![Saad's GitHub stats](https://github-readme-stats.vercel.app/api?username=Saadhannout&show_icons=true&theme=tokyonight)
