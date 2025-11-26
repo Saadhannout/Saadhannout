@@ -100,5 +100,6 @@ Streamlit app for **tracking workouts, meals, and recommending diets**.
 
 ## 📈 GitHub Stats
 
-![Saad's GitHub stats](https://github-readme-stats.vercel.app/api?username=Saadhannout)
+![Saad's GitHub stats](https://github-readme-stats.vercel.app/api?username=Saadhannout&show_icons=true&theme=tokyonight)
+
 
