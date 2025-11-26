@@ -37,19 +37,25 @@ Other	Git & GitHub, Jupyter Notebook
 📊 E-Commerce Store Analytics
 
 Interactive dashboard analyzing sales, customers, and product performance.
+
 Tools: Power Query, Power BI
+
 🔗 Project: https://github.com/Saadhannout/E-Commerce-Store
 
 🚗 Used Car Price Prediction
 
 ML model predicting used car prices using regression techniques.
+
 Tools: Python, Pandas, Scikit-learn, Streamlit
+
 🔗 Project: https://github.com/Saadhannout/Regression-of-Used-Car-Prices
 
 🏋️ FitMentor – Fitness Analytics Platform
 
 A Streamlit app for tracking workouts, meals, and recommending diets.
+
 Tools: Python, Pandas, Streamlit
+
 🔗 Project: https://github.com/Saadhannout/Diet_Recommendation
 
 📚 Currently Learning
@@ -65,6 +71,7 @@ Data Engineering Basics
 📫 Contact
 
 📍 Menoufia, Egypt
+
 📧 saadhanout12345@gmail.com
 
 🔗 LinkedIn: https://www.linkedin.com/in/your-link
