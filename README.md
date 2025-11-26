@@ -30,10 +30,10 @@
 
 ## 📂 Featured Projects
 
-### 📊 HR Analytics Dashboard (Power BI)  
+### 📊 E-Commerce-Store   
 Built a dynamic dashboard to visualize key HR metrics: attrition, satisfaction, salary & more.  
-**Tools:** Excel, Power BI  
-[🔗 View Project](https://github.com/yourusername/hr-dashboard)
+**Tools:** Power Query,Power BI  
+[🔗 View Project](https://github.com/Saadhannout/E-Commerce-Store)
 
 ---
 
