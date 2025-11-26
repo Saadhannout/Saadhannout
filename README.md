@@ -40,7 +40,7 @@ Built a dynamic dashboard to visualize key HR metrics: attrition, satisfaction, 
 ### 🚗 Used Car Price Prediction  
 Machine learning project to predict used car prices.  
 **Tools:** Python, Pandas, Scikit-learn, Streamlit  
-[🔗 View Project](https://github.com/yourusername/used-car-price)
+[🔗 View Project](https://github.com/Saadhannout/Regression-of-Used-Car-Prices)
 
 ---
 
