@@ -94,7 +94,7 @@ Streamlit app for **tracking workouts, meals, and recommending diets**.
 
 📧 saadhanout12345@gmail.com  
 
-🔗 LinkedIn: https://www.linkedin.com/in/your-link  
+🔗 LinkedIn: https://www.linkedin.com/in/saad-hannout-44329323a/  
 
 ---
 
