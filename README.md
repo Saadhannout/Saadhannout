@@ -47,7 +47,7 @@ Machine learning project to predict used car prices.
 ### 🏋️ FitMentor – Fitness Analytics Platform  
 Web app that tracks fitness, meals, and recommends healthy diets using user inputs.  
 **Tools:** Python, Streamlit, Pandas  
-[🔗 View Project](https://github.com/yourusername/fitmentor)
+[🔗 View Project](https://github.com/Saadhannout/Diet_Recommendation)
 
 ---
 
@@ -65,8 +65,7 @@ Web app that tracks fitness, meals, and recommends healthy diets using user inpu
 - 📍 Menoufia, Egypt  
 - 📧 saadhanout12345@gmail.com  
 - 🔗 [LinkedIn](https://www.linkedin.com/in/your-link)  
-- 📊 [Kaggle](https://www.kaggle.com/yourkaggleprofile)  
-- 💼 Portfolio Website *(optional)*
+
 
 ---
 
