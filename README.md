@@ -1,74 +1,73 @@
-# 👋 Hello! I'm Saad Hannout
+👋 Hi, I'm Saad Hannout
 
-🎓 Final-year Computer Engineering Student @ Al-Azhar University  
-📊 Aspiring **Data Analyst** | Excel • Power BI • SQL • Python  
-🧠 Passionate about transforming raw data into powerful insights
+🎓 Computer Engineering Graduate from Al-Azhar University, 2025
+📊 Data Analyst skilled in Excel • Power BI • SQL • Python
+🚀 Turning raw data into actionable insights
 
----
+📌 About Me
 
-## 📌 About Me
+Specialize in data cleaning, analysis, visualization, and reporting
 
-- 👨‍💻 I specialize in data wrangling, exploration, visualization & storytelling  
-- 🛠️ Tools of the trade: Python (Pandas, NumPy, Matplotlib), Power BI, Excel, SQL  
-- 📈 I enjoy building dashboards and automating reports to help decision-making  
-- 🎯 I’m currently working on real-world projects in business analytics & machine learning  
-- 🚀 Always learning something new in data & tech
+Build Power BI dashboards and Excel automations
 
----
+Write optimized SQL queries for analytics
 
-## 🧰 Tech Toolbox
+Knowledge in Data Modeling & Data Warehousing concepts
 
-| Category       | Tools / Technologies |
-|----------------|----------------------|
-| **Languages**  | Python, SQL, DAX     |
-| **Libraries**  | Pandas, NumPy, Matplotlib, Seaborn |
-| **BI Tools**   | Power BI, Excel, Power Query |
-| **Databases**  | MySQL, SQL Server    |
-| **Other**      | Git & GitHub, Jupyter Notebook |
+Working on real-world projects in business & product analytics
 
----
+Always learning something new in data and tech
 
-## 📂 Featured Projects
+🎓 Education & Achievements
 
-### 📊 E-Commerce-Store   
-Built a dynamic dashboard to visualize key HR metrics: attrition, satisfaction, salary & more.  
-**Tools:** Power Query,Power BI  
-[🔗 View Project](https://github.com/Saadhannout/E-Commerce-Store)
+B.Sc. in Computer Engineering, Al-Azhar University, 2025
 
----
+Graduated with Very Good with Honors
 
-### 🚗 Used Car Price Prediction  
-Machine learning project to predict used car prices.  
-**Tools:** Python, Pandas, Scikit-learn, Streamlit  
-[🔗 View Project](https://github.com/Saadhannout/Regression-of-Used-Car-Prices)
+Graduation Project: FitMentor – awarded Excellent
 
----
+🧰 Tech Toolbox
+Category	Tools
+Languages	Python, SQL, DAX
+Libraries	Pandas, NumPy, Matplotlib, Seaborn
+BI Tools	Power BI, Excel, Power Query
+Databases	SQL Server, MySQL
+Other	Git & GitHub, Jupyter Notebook
+📂 Featured Projects
+📊 E-Commerce Store Analytics
 
-### 🏋️ FitMentor – Fitness Analytics Platform  
-Web app that tracks fitness, meals, and recommends healthy diets using user inputs.  
-**Tools:** Python, Streamlit, Pandas  
-[🔗 View Project](https://github.com/Saadhannout/Diet_Recommendation)
+Interactive dashboard analyzing sales, customers, and product performance.
+Tools: Power Query, Power BI
+🔗 Project: https://github.com/Saadhannout/E-Commerce-Store
 
----
+🚗 Used Car Price Prediction
 
-## 📚 Currently Learning
+ML model predicting used car prices using regression techniques.
+Tools: Python, Pandas, Scikit-learn, Streamlit
+🔗 Project: https://github.com/Saadhannout/Regression-of-Used-Car-Prices
 
-- Advanced SQL for Analytics  
-- A/B Testing & Business Intelligence  
-- Time Series Forecasting  
-- Data Engineering Basics
+🏋️ FitMentor – Fitness Analytics Platform
 
----
+A Streamlit app for tracking workouts, meals, and recommending diets.
+Tools: Python, Pandas, Streamlit
+🔗 Project: https://github.com/Saadhannout/Diet_Recommendation
 
-## 📫 Let's Connect!
+📚 Currently Learning
 
-- 📍 Menoufia, Egypt  
-- 📧 saadhanout12345@gmail.com  
-- 🔗 [LinkedIn](https://www.linkedin.com/in/your-link)  
+Advanced SQL
 
+A/B Testing
 
----
+Time Series
 
-### 📈 GitHub Stats
+Data Engineering Basics
 
-![Saad's GitHub stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=tokyonight)
+📫 Contact
+
+📍 Menoufia, Egypt
+📧 saadhanout12345@gmail.com
+
+🔗 LinkedIn: https://www.linkedin.com/in/your-link
+
+📈 GitHub Stats
+![Saad's GitHub stats](https://github-readme-stats.vercel.app/api?username=Saadhannout&show_icons=true&theme=tokyonight)
